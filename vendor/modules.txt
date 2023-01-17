@@ -1,0 +1,13 @@
+# github.com/antchfx/xpath v0.0.0-20170515025933-1f3266e77307
+## explicit
+github.com/antchfx/xpath
+# github.com/subchen/go-xmldom v1.1.2
+## explicit
+github.com/subchen/go-xmldom
+# golang.org/x/text v0.4.0
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/transform

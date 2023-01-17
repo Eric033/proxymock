@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reply_Msg>
+	<Sys_Head>
+		<RET_ARRAY>
+			<mockserverError>
+				<RET_MSG>mockserver error:should replaced by error info</RET_MSG>
+				<RET_CODE>123456</RET_CODE>
+			</mockserverError>
+		</RET_ARRAY>
+		<SEQ_NO>mockserver</SEQ_NO>
+	</Sys_Head>
+	<Body/>
+</Reply_Msg>

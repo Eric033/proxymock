@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reply_Msg>
+	<Sys_Head info="挡板异常！该系统使用了测试部门提供的挡板，请联系测试人员。">
+	    <SEQ_NO>mockserver</SEQ_NO>
+		<RET_ARRAY>
+			<mockserverError>
+				<RET_MSG>mockserver error:should replaced by error info</RET_MSG>
+				<RET_CODE>123456</RET_CODE>
+			</mockserverError>
+		</RET_ARRAY>
+	</Sys_Head>
+	<Body/>
+</Reply_Msg>
